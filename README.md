@@ -4,8 +4,8 @@ This banking system compiled by C++ , contains the basics of programming ,you ca
 using namespace std;
 
 // Global variables
-string username = "Tha";
-string password = "123";
+string username = "Thando";
+string password = "Pass@1";
 string uname;
 string psw;
 double balance = 10000.00;
